@@ -1,4 +1,4 @@
-# CTI Data Aggregator API
+# CTI HASH DATA Aggregator API
 
 API REST que agrega datos de inteligencia de amenazas (CTI) de múltiples fuentes (VirusTotal y MalwareBazaar) para un hash de archivo específico.
 
